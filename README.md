@@ -46,6 +46,10 @@ crud_estudiantes/
 ├── main.py # Punto de entrada principal de la aplicación
 └── README.md # Documentación del proyecto (este archivo)
 
+## Equipo de Trabajo:
+- Daniela Bastias (danybastias@outlook.com)
+- Abel (-----@---.com)
+- Karem Lisbeth Nuñez Rivera (nuezr.karemclases@gmail.com)
 
 ## Contribución
 
