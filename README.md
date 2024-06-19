@@ -48,7 +48,7 @@ crud_estudiantes/
 
 ## Equipo de Trabajo:
 - Daniela Bastias (danybastias@outlook.com)
-- Abel (-----@---.com)
+- Abel Oscar Romero (abromero@frba.utn.edu.ar)
 - Karem Lisbeth Nuñez Rivera (nuezr.karemclases@gmail.com)
 
 ## Contribución
